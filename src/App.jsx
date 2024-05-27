@@ -29,7 +29,7 @@ function App() {
           <li>
             <div className="card card-compact w-96 bg-base-100 shadow-xl">
               <div className="card-body">
-                <h2 className="card-title mb-5">1. Password Generator</h2>
+                <h2 className="card-title mb-5">2. Password Generator</h2>
                 <div className="card-actions flex items-center">
                   <div className="mr-5">
                     <a href="https://github.com/smurodil/password-generator">
