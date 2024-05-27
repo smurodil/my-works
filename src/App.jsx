@@ -6,7 +6,7 @@ function App() {
       <div className="max-container pt-10">
         <h1 className="text-white text-3xl text-center mb-3">Murodil's projects</h1>
         <p className="text-2xl text-white mb-8">My Works</p>  
-        <ul className="mt-10 bg-slate-700 p-5 h-full grid grid-cols-2 ">
+        <ul className="mt-10 bg-slate-700 p-5 h-full grid grid-cols-2 gap-5">
           <li>
             <div className="card card-compact w-96 bg-base-100 shadow-xl">
               <div className="card-body">
