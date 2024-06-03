@@ -89,12 +89,12 @@ function App() {
                 <h2 className="card-title mb-5">5. Quiz App</h2>
                 <div className="card-actions flex items-center">
                   <div className="mr-5">
-                    <a href="https://github.com/smurodil/quiz-app-ms">
+                    <a href="https://github.com/smurodil/frontend-quiz-app">
                       <button className="btn btn-primary w-[110px]">Github</button>
                     </a>
                   </div>
                   <div>
-                    <a href="https://quiz-app-ms-z1cz.vercel.app/">
+                    <a href="https://frontend-quiz-app-nine.vercel.app/">
                       <button className="btn btn-secondary w-[110px]">Vercel</button>
                     </a>
                   </div>
