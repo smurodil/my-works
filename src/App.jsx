@@ -2,7 +2,7 @@ import React from "react";
 
 function App() {
   return (
-    <div className="bg-slate-900 h-screen">
+    <div className="bg-slate-900 h-full">
       <div className="max-container pt-10">
         <h1 className="text-white text-3xl text-center mb-3">Murodil's projects</h1>
         <p className="text-2xl text-white mb-8">My Works</p>  
