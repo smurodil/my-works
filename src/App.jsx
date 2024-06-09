@@ -159,6 +159,44 @@ function App() {
               </div>
             </div>
           </li>
+          <li>
+            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+              <div className="card-body">
+                <h2 className="card-title mb-5">9. AudioPhile Ecommerce Site</h2>
+                <div className="card-actions flex items-center">
+                  <div className="mr-5">
+                    <a href="https://github.com/smurodil/audiophile-ecommerce">
+                      <button className="btn btn-primary w-[110px]">Github</button>
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://audiophile-ecommerce-6wzl.vercel.app/">
+                      <button className="btn btn-secondary w-[110px]">Vercel</button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li>
+            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+              <div className="card-body">
+                <h2 className="card-title mb-5">10. Invoice App</h2>
+                <div className="card-actions flex items-center">
+                  <div className="mr-5">
+                    <a href="https://github.com/smurodil/invoice-app-full">
+                      <button className="btn btn-primary w-[110px]">Github</button>
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://invoice-app-full-pan2.vercel.app/">
+                      <button className="btn btn-secondary w-[110px]">Vercel</button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
