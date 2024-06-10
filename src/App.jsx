@@ -197,6 +197,25 @@ function App() {
               </div>
             </div>
           </li>
+          <li>
+            <div className="card card-compact w-96 bg-base-100 shadow-xl">
+              <div className="card-body">
+                <h2 className="card-title mb-5">11. Dine Restaurant</h2>
+                <div className="card-actions flex items-center">
+                  <div className="mr-5">
+                    <a href="https://github.com/smurodil/dine-restaurat">
+                      <button className="btn btn-primary w-[110px]">Github</button>
+                    </a>
+                  </div>
+                  <div>
+                    <a href="https://dine-restaurant-ms.netlify.app/">
+                      <button className="btn btn-secondary w-[110px]">Netlify</button>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
         </ul>
       </div>
     </div>
